@@ -1,6 +1,6 @@
 <h2 align="center">Olá!👋 Sou Diogo Barros</h1>
 <h3 align="center">Entusiasta por tecnologia!</h3>
-<h3 align="center">🌎Maravilhado pelo mundo do Desenvolvimento Web!🚀</h3>
+<h3 align="center">🚀Maravilhado pelo mundo do Desenvolvimento Web!🌎</h3>
 
 <br>
 
@@ -10,7 +10,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p>Link Here</p>
+<p>
+	
+
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Icon Here</p>
+<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" width="40" height="40"/>
