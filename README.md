@@ -1,5 +1,5 @@
 <h2 align="center">Olá!👋 Sou Diogo Barros</h1>
-<h3 align="center">Entusiasta por tecnologia!</h3><div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<h3 align="center">Entusiasta por tecnologia!</h3>
 <h3 align="center">Maravilhado pelo mundo do Desenvolvimento Web!</h3>
 
 <br>
