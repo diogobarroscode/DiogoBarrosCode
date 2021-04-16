@@ -7,7 +7,7 @@
 
 - 📝 Conecte-se comigo pelo Linkedin, vamos bater um papo! [https://www.linkedin.com/in/diogobarros-code](https://www.linkedin.com/in/diogobarros-code)
 
-- ⚡ Formado em "Sistemas Para Internet" pela UNISÂOMIGUEL.
+- :mortar_board: Formado em "Sistemas Para Internet" pela UNISÂOMIGUEL.
 
 <h3 align="left">Connect with me:</h3>
 <p>Link Here</p>
