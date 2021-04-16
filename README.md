@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DiogoBarrosCode/DiogoBarrosCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Olá! Sou Diogo Barros</h1>
+<h3 align="center">Entusiasta por tecnologia!</h3>
+<h3 align="content">Maravilhado pelo mundo do Desenvolvimento Web.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Conecte-se comigo pelo Linkedin, vamos bater um papo! [https://www.linkedin.com/in/diogobarros-code](https://www.linkedin.com/in/diogobarros-code)
+
+- ⚡ Formado em "Sistemas Para Internet" pela UNISÂOMIGUEL
+
+<h3 align="left">Connect with me:</h3>
+<p>Link Here</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p>Icon Here</p>
