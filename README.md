@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2 align="center">Olá! Sou Diogo Barros</h1>
+<h2 align="center">Olá!👋 Sou Diogo Barros</h1>
 <h3 align="center">Entusiasta por tecnologia!</h3>
 <h3 align="center">Maravilhado pelo mundo do Desenvolvimento Web!</h3>
 
