@@ -10,6 +10,7 @@
  🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.</br>
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
+ 🧠 Trilho minha carreira nas tecnologias front-end e back-end focado na web.</br>
 </p>
 
 
