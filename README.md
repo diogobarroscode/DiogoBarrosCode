@@ -1,4 +1,4 @@
-(https://github.com/DiogoBarrosCode/DiogoBarrosCode/blob/main/teclado.png)
+!Banner](https://github.com/DiogoBarrosCode/DiogoBarrosCode/blob/main/teclado.png)
 
 <h1>⚡Hi there, I'm Diogo Barros⚡</h1>
  
