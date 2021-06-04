@@ -12,7 +12,10 @@
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-Asp.NETCore-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-PostgreSql-05122A?&logo=PostgreSql)&nbsp;
 ![ANGULAR](https://img.shields.io/badge/-Angular-05122A?&logo=Angular)&nbsp;
+
+
 
 
 
