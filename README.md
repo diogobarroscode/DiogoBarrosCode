@@ -6,7 +6,7 @@
 
 </br>
 
-🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.
+<p>🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.</p>
 
 
 <h3 align="left">🚀Languages and Tools:</h3>
