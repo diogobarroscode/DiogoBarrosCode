@@ -5,7 +5,9 @@
 <a href="mailto:diogobarros.code@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-<h3 align="left">🚀Languages and Tools:</h3>
+
+
+<h4 align="left">🚀Languages and Tools:</h4>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
