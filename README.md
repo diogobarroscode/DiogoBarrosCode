@@ -15,8 +15,6 @@
  ✉️ Entre em contato comigo através do meu <a href="https://www.linkedin.com/in/diogobarros-code/">Linkedin</a>.
 </p>
 
-</br>
-
 <h3 align="left">🚀Languages and Tools:</h3>
 
 <h2>
