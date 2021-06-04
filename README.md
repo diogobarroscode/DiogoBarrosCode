@@ -8,7 +8,8 @@
 
 <p>
  🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.</br>
- 💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br> 
+ 💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
+ 🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
 </p>
 
 
