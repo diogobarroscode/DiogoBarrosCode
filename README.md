@@ -10,8 +10,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-Asp.NETCore-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-Asp.NETCore-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
 
 <p align="left">
 
