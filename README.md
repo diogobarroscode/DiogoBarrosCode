@@ -13,6 +13,7 @@
  🧠 Trilho minha carreira nas tecnologias front-end e back-end focado na web.</br>
 </p>
 
+</br>
 
 <h3 align="left">🚀Languages and Tools:</h3>
 
