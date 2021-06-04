@@ -15,7 +15,9 @@
 
 </br>
 
-<h1 align="left">🚀Languages and Tools:
+<h3 align="left">🚀Languages and Tools:</h3>
+
+<h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -31,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-</h1>
+</h2>
 
 #### ⚙️ &nbsp;GitHub Analytics
 
