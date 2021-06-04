@@ -1,3 +1,5 @@
+![Banner](https://drive.google.com/file/d/17mH9McQoO-JhTOwxmNrh-_gnmNua0rh3/view?usp=sharing)
+
 <h1>⚡Hi there, I'm Diogo Barros⚡</h1>
  
 <a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
