@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/17mH9McQoO-JhTOwxmNrh-_gnmNua0rh3/view?usp=sharing)
+
 
 <h1>⚡Hi there, I'm Diogo Barros⚡</h1>
  
