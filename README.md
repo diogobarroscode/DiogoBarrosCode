@@ -1,10 +1,9 @@
 <h1>⚡Hi there, I'm Diogo Barros⚡</h1>
  
 <h4>✉️Contact with me:</h4>
-<a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:diogobarros.code@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:diogobarros.code@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a></p>
 
-</br></br>
 
 <p>🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.</p>
 
