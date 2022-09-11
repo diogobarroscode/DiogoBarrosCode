@@ -1,11 +1,10 @@
 <h1>⚡Hi there, I'm Diogo Barros⚡</h1>
  
 <h4>✉️Contact with me:</h4>
-<p><a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:diogobarros.code@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a></p>
+<p><a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a></p>
 
 <p>
- 🎓 Sou formado em "Sistemas para Internet" pela UNISÃOMIGUEL - Recife-PE.</br>
+ 🎓 Pós-Graduando em Engenharia de Software na FAFIRE - Recife-PE.</br>
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
  🧠 Trilho minha carreira nas tecnologias front-end e back-end.</br>
@@ -21,7 +20,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-Asp.NETCore-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-PostgreSql-05122A?&logo=PostgreSql) </br>
 ![WORDPRESS](https://img.shields.io/badge/-Wordpress-05122A?&logo=Wordpress)&nbsp;
