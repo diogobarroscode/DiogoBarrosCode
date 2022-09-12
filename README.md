@@ -4,7 +4,7 @@
 <p><a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a></p>
 
 <p>
- 🎓 Pós-Graduando em Engenharia de Software na FAFIRE - Recife-PE.</br>
+ 🎓 Pós-Graduando em Engenharia de Software pela FAFIRE - Recife-PE.</br>
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
  🧠 Trilho minha carreira nas tecnologias front-end e back-end.</br>
