@@ -8,7 +8,7 @@
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
  🧠 Trilho minha carreira nas tecnologias front-end e back-end.</br>
- 🎨 No meu tempo livre gosto de exercitar minha criatividade com desing gráfico, ilustração e música.</br>
+ 🎨 No meu tempo livre gosto de exercitar minha criatividade com design gráfico, e música.</br>
  ✉️ Entre em contato comigo através do meu <a href="https://www.linkedin.com/in/diogobarros-code/">Linkedin</a>.
 </p>
 
