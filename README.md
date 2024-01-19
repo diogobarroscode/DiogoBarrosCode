@@ -4,11 +4,10 @@
 <p><a href="https://www.linkedin.com/in/diogobarros-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a></p>
 
 <p>
- 🎓 Pós-Graduando em Engenharia de Software pela FAFIRE - Recife-PE.</br>
+ 🎓 Pós-Graduado em Engenharia de Software pela FAFIRE - Recife-PE.</br>
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
  🧠 Trilho minha carreira nas tecnologias front-end e back-end.</br>
- 🎨 No meu tempo livre gosto de exercitar minha criatividade com design gráfico, e música.</br>
  ✉️ Entre em contato comigo através do meu <a href="https://www.linkedin.com/in/diogobarros-code/">Linkedin</a>.
 </p>
 
@@ -25,7 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 </h2>
 
