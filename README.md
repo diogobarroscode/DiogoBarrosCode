@@ -15,13 +15,14 @@
 
 <h2>
 
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
-![ReactJS](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=orange)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=SPRING)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=REACT)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;
-![POSTGRESQL](https://img.shields.io/badge/-PostgreSql-05122A?&logo=PostgreSql) </br>
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL&logoColor=white)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-PostgreSql-05122A?&logo=PostgreSql&logoColor=white) </br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
