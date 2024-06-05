@@ -8,7 +8,7 @@
  💡 Entusiasta por tecnologia, gosto de explorar novidades e desenvolver soluções através de códigos.</br>
  🌎 Maravilhado pelo mundo do desenvolvimento web.</br>
  🧠 Trilho minha carreira nas tecnologias front-end e back-end.</br>
- ✉️ Entre em contato comigo através do meu <a href="https://www.linkedin.com/in/diogobarroscode/" target="_blank">Linkedin</a>.
+ ✉️ Entre em contato comigo através do meu <a href="https://www.linkedin.com/in/diogobarroscode/">Linkedin</a>.
 </p>
 
 <h3 align="left">🚀Languages and Tools:</h3>
